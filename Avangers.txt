@@ -11,7 +11,7 @@ Paul Jeffrey Ford
 https://www.youtube.com/watch?v=wZO3LygjrVw
 >>>>>>> 5c5e816a84293eb4ffdc695c696717cc13d4fe0a
 2012.  prilis 26.
-	
+Fõszereplõk:	
 Tony Stark
 Chris Evans
 Steve Rogers
@@ -35,3 +35,6 @@ Selvig
 Gwyneth Paltrow
 Pepper Potts
 Paul Bettany
+Rendezõ:
+Joss Whedon
+
