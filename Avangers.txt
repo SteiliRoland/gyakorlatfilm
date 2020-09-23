@@ -2,11 +2,41 @@
 nemtudokfilmetszovalezlesz,Toni Stark
 
 nemtudokfilmetszovalezlesz
-2012.  prilis 26.
+
 
 <<<<<<< HEAD
 =======
 Paul Rubell
 Paul Jeffrey Ford
+2012.  prilis 26.
+Fõszereplõk:	
+Tony Stark
+Chris Evans
+Steve Rogers
+Mark Ruffalo
+Bruce Banner
+Chris Hemsworth Thor
+Samuel L. Jackson
+Nick Fury
+Scarlett Johansson 
+Natasha Romanoff
+Jeremy Renner
+Clint Barton
+Tom Hiddleston
+Loki
+Clark Gregg
+Phil Coulson
+Cobie Smulders
+Maria Hill
+Stellan
+Selvig
+Gwyneth Paltrow
+Pepper Potts
+Paul Bettany
+Rendezõ:
+Joss Whedon
+Operatõr:
+Seamus McGarvey
+Trainler:
 https://www.youtube.com/watch?v=wZO3LygjrVw
->>>>>>> 5c5e816a84293eb4ffdc695c696717cc13d4fe0a
+
