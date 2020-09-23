@@ -3,9 +3,6 @@ nemtudokfilmetszovalezlesz,Toni Stark
 
 nemtudokfilmetszovalezlesz
 
-
-<<<<<<< HEAD
-=======
 Paul Rubell
 Paul Jeffrey Ford
 2012.  prilis 26.
@@ -39,4 +36,17 @@ Operatõr:
 Seamus McGarvey
 Trainler:
 https://www.youtube.com/watch?v=wZO3LygjrVw
+<<<<<<< HEAD
 Szaturnusz-díj (2013) Legjobb rendezõ díj: Joss Whedon
+=======
+Forgatasi helyszinek:
+Anglia
+Johannesburg
+Olaszország 
+Szöul
+Zeneszerõ:
+Alan Silvestri
+Producer:
+Kevin Feige
+
+>>>>>>> f448b5eba1cae7ff76993726144b90ec84303673
