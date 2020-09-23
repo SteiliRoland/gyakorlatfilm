@@ -3,9 +3,6 @@ nemtudokfilmetszovalezlesz,Toni Stark
 
 nemtudokfilmetszovalezlesz
 
-
-<<<<<<< HEAD
-=======
 Paul Rubell
 Paul Jeffrey Ford
 2012.  prilis 26.
@@ -39,4 +36,9 @@ Operatõr:
 Seamus McGarvey
 Trainler:
 https://www.youtube.com/watch?v=wZO3LygjrVw
+Forgatasi helyszinek:
+Anglia
+Johannesburg
+Olaszország 
+Szöul
 
